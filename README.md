@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aeqpnet My name is Igor.
+- 👀 I’m interested in studying computer technologies, cooking, and riding two-wheeled vehicles.
+- 🌱 I’m currently learning how to run telegram bot at AWS Cloud
+- 📫 How to reach me by sending an email - igor@aeqp.net or visiting https://aeqp.net/ or on my inkedin page https://www.linkedin.com/in/vorobev-ig
+- ⚡ Fun fact: I have been working in the IT industry for over 14 years, I am an enthusiast of MikroTik and Synology.
